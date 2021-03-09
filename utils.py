@@ -5,7 +5,6 @@ import matplotlib.patches as patches
 from collections import Counter
 import cv2
 
-
 def intersection_over_union(boxes_preds, boxes_labels, box_format="midpoint"):
     """
     Calculates intersection over union
