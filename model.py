@@ -84,7 +84,6 @@ class YoloTiny (nn.Module):
         x = self.relu8(x)
         x = self.fc2(x)
         return x
-
 # model = YoloTiny()
 # x = torch.randn(1,3,416,416)
 # print(model.forward(x).shape)
