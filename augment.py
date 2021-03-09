@@ -26,7 +26,6 @@ for i in range(0, 675):
     cv2.imwrite(path_save + str(k) + '.jpg', image)
     k += 1
 '''
-
 # Mirror Image Numeric
 path_open = 'D:/Study/_4_sem/_kursach/images_numeric/'
 path_save = 'D:/Study/_4_sem/_kursach/images_mirror/'
