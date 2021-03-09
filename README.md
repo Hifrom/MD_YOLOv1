@@ -7,4 +7,7 @@ For training CNN run train_mobilenetv2.py or train_vgg11.py for MobileNetv2 or V
 ## Inference CNN  
 For inference CNN run test_mobilenetv2.py using usb-webcam
   
-## Data
+## Data     
+Folder for train and test datasets and .csv files
+
+## Regards
