@@ -136,6 +136,5 @@ def main():
         log.close()
         train_fn(train_loader, model, optimizer, loss_fn)
 
-
 if __name__ == "__main__":
     main()
