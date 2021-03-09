@@ -10,4 +10,5 @@ For inference CNN run test_mobilenetv2.py using usb-webcam
 ## Data     
 Folder for train and test datasets and .csv files
 
-## Regards
+## Regards  
+Great thanks to @aladdinpersson (https://github.com/aladdinpersson) for tutoial on YouTube (https://www.youtube.com/watch?v=n9_XyCGr-MI&t=2317s) and his unbelievable explanation of algorithm and code section! You are amazing!
