@@ -19,7 +19,6 @@ from tqdm import tqdm
 import numpy as np
 DEVICE = 'cuda'
 
-
 class Compose(object):
     def __init__(self, transforms):
         self.transforms = transforms
