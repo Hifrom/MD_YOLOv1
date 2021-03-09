@@ -1,0 +1,1805 @@
+********************** Epoch ¹: 0 **********************
+Train mAP: tensor(0.)
+Valid mAP: tensor(0.)
+Mean Loss: 293.18577575683594
+********************** Epoch ¹: 1 **********************
+Train mAP: tensor(0.0002)
+Valid mAP: tensor(0.)
+Mean Loss: 158.22583275689018
+********************** Epoch ¹: 2 **********************
+Train mAP: tensor(0.0075)
+Valid mAP: tensor(0.0063)
+Mean Loss: 121.55853220621745
+********************** Epoch ¹: 3 **********************
+Train mAP: tensor(0.0462)
+Valid mAP: tensor(0.0190)
+Mean Loss: 99.53551781548394
+********************** Epoch ¹: 4 **********************
+Train mAP: tensor(0.1249)
+Valid mAP: tensor(0.0695)
+Mean Loss: 83.92856923421223
+********************** Epoch ¹: 5 **********************
+Train mAP: tensor(0.1752)
+Valid mAP: tensor(0.0935)
+Mean Loss: 72.4926745944553
+********************** Epoch ¹: 6 **********************
+Train mAP: tensor(0.3467)
+Valid mAP: tensor(0.1590)
+Mean Loss: 63.046458892822265
+********************** Epoch ¹: 7 **********************
+Train mAP: tensor(0.4534)
+Valid mAP: tensor(0.2029)
+Mean Loss: 56.09293131510417
+********************** Epoch ¹: 8 **********************
+Train mAP: tensor(0.5361)
+Valid mAP: tensor(0.2406)
+Mean Loss: 50.187817620171444
+********************** Epoch ¹: 9 **********************
+Train mAP: tensor(0.6376)
+Valid mAP: tensor(0.2446)
+Mean Loss: 45.5716914791531
+********************** Epoch ¹: 10 **********************
+Train mAP: tensor(0.7209)
+Valid mAP: tensor(0.3594)
+Mean Loss: 41.51779476589627
+********************** Epoch ¹: 11 **********************
+Train mAP: tensor(0.7861)
+Valid mAP: tensor(0.3608)
+Mean Loss: 38.06970351325141
+********************** Epoch ¹: 12 **********************
+Train mAP: tensor(0.7834)
+Valid mAP: tensor(0.4047)
+Mean Loss: 35.18713105943468
+********************** Epoch ¹: 13 **********************
+Train mAP: tensor(0.8265)
+Valid mAP: tensor(0.4551)
+Mean Loss: 32.70435904608833
+********************** Epoch ¹: 14 **********************
+Train mAP: tensor(0.8391)
+Valid mAP: tensor(0.4953)
+Mean Loss: 30.940752800835504
+********************** Epoch ¹: 15 **********************
+Train mAP: tensor(0.8499)
+Valid mAP: tensor(0.4768)
+Mean Loss: 28.508377176920572
+********************** Epoch ¹: 16 **********************
+Train mAP: tensor(0.8628)
+Valid mAP: tensor(0.5007)
+Mean Loss: 26.568450427585176
+********************** Epoch ¹: 17 **********************
+Train mAP: tensor(0.8668)
+Valid mAP: tensor(0.5197)
+Mean Loss: 25.293958231608073
+********************** Epoch ¹: 18 **********************
+Train mAP: tensor(0.8740)
+Valid mAP: tensor(0.5479)
+Mean Loss: 23.949556698269316
+********************** Epoch ¹: 19 **********************
+Train mAP: tensor(0.8994)
+Valid mAP: tensor(0.5340)
+Mean Loss: 22.556679221259223
+********************** Epoch ¹: 20 **********************
+Train mAP: tensor(0.9262)
+Valid mAP: tensor(0.5593)
+Mean Loss: 21.655556208292644
+********************** Epoch ¹: 21 **********************
+Train mAP: tensor(0.9044)
+Valid mAP: tensor(0.5705)
+Mean Loss: 20.365130416022406
+********************** Epoch ¹: 22 **********************
+Train mAP: tensor(0.9422)
+Valid mAP: tensor(0.5683)
+Mean Loss: 19.366533177693686
+********************** Epoch ¹: 23 **********************
+Train mAP: tensor(0.9356)
+Valid mAP: tensor(0.5984)
+Mean Loss: 18.40635133955214
+********************** Epoch ¹: 24 **********************
+Train mAP: tensor(0.9318)
+Valid mAP: tensor(0.6140)
+Mean Loss: 17.759806768629286
+********************** Epoch ¹: 25 **********************
+Train mAP: tensor(0.9299)
+Valid mAP: tensor(0.6146)
+Mean Loss: 17.006643197801377
+********************** Epoch ¹: 26 **********************
+Train mAP: tensor(0.9435)
+Valid mAP: tensor(0.6066)
+Mean Loss: 16.043755082024468
+********************** Epoch ¹: 27 **********************
+Train mAP: tensor(0.9513)
+Valid mAP: tensor(0.6411)
+Mean Loss: 15.595662061903212
+********************** Epoch ¹: 28 **********************
+Train mAP: tensor(0.9631)
+Valid mAP: tensor(0.6252)
+Mean Loss: 14.942019242180718
+********************** Epoch ¹: 29 **********************
+Train mAP: tensor(0.9553)
+Valid mAP: tensor(0.6248)
+Mean Loss: 14.461667696634928
+********************** Epoch ¹: 30 **********************
+Train mAP: tensor(0.9519)
+Valid mAP: tensor(0.6661)
+Mean Loss: 13.631835038926866
+********************** Epoch ¹: 31 **********************
+Train mAP: tensor(0.9519)
+Valid mAP: tensor(0.6733)
+Mean Loss: 13.667316508822971
+********************** Epoch ¹: 32 **********************
+Train mAP: tensor(0.9634)
+Valid mAP: tensor(0.6662)
+Mean Loss: 13.003258505927192
+********************** Epoch ¹: 33 **********************
+Train mAP: tensor(0.9600)
+Valid mAP: tensor(0.6804)
+Mean Loss: 12.54125394185384
+********************** Epoch ¹: 34 **********************
+Train mAP: tensor(0.9658)
+Valid mAP: tensor(0.6531)
+Mean Loss: 11.721274507310655
+********************** Epoch ¹: 35 **********************
+Train mAP: tensor(0.9776)
+Valid mAP: tensor(0.6169)
+Mean Loss: 11.497271739112007
+********************** Epoch ¹: 36 **********************
+Train mAP: tensor(0.9697)
+Valid mAP: tensor(0.6481)
+Mean Loss: 11.033806864420573
+********************** Epoch ¹: 37 **********************
+Train mAP: tensor(0.9860)
+Valid mAP: tensor(0.6685)
+Mean Loss: 10.430205648210313
+********************** Epoch ¹: 38 **********************
+Train mAP: tensor(0.9827)
+Valid mAP: tensor(0.6633)
+Mean Loss: 10.20077075322469
+********************** Epoch ¹: 39 **********************
+Train mAP: tensor(0.9868)
+Valid mAP: tensor(0.6540)
+Mean Loss: 9.836008644104004
+********************** Epoch ¹: 40 **********************
+Train mAP: tensor(0.9913)
+Valid mAP: tensor(0.6562)
+Mean Loss: 9.509364901648627
+********************** Epoch ¹: 41 **********************
+Train mAP: tensor(0.9829)
+Valid mAP: tensor(0.6705)
+Mean Loss: 9.35394647386339
+********************** Epoch ¹: 42 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6203)
+Mean Loss: 8.987773066626655
+********************** Epoch ¹: 43 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.6797)
+Mean Loss: 8.636832737392849
+********************** Epoch ¹: 44 **********************
+Train mAP: tensor(0.9871)
+Valid mAP: tensor(0.6631)
+Mean Loss: 8.466034361521404
+********************** Epoch ¹: 45 **********************
+Train mAP: tensor(0.9831)
+Valid mAP: tensor(0.6828)
+Mean Loss: 8.231985980139838
+********************** Epoch ¹: 46 **********************
+Train mAP: tensor(0.9829)
+Valid mAP: tensor(0.6107)
+Mean Loss: 7.939909892612033
+********************** Epoch ¹: 47 **********************
+Train mAP: tensor(0.9830)
+Valid mAP: tensor(0.6219)
+Mean Loss: 7.587147212558323
+********************** Epoch ¹: 48 **********************
+Train mAP: tensor(0.9830)
+Valid mAP: tensor(0.6171)
+Mean Loss: 7.475525991651747
+********************** Epoch ¹: 49 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6165)
+Mean Loss: 7.338146932390001
+********************** Epoch ¹: 50 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6231)
+Mean Loss: 7.116299940745036
+********************** Epoch ¹: 51 **********************
+Train mAP: tensor(0.9832)
+Valid mAP: tensor(0.6342)
+Mean Loss: 7.012628178066677
+********************** Epoch ¹: 52 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6160)
+Mean Loss: 6.789904789394803
+********************** Epoch ¹: 53 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6332)
+Mean Loss: 6.623783693313599
+********************** Epoch ¹: 54 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.6495)
+Mean Loss: 6.482877067989773
+********************** Epoch ¹: 55 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6683)
+Mean Loss: 6.428677461412218
+********************** Epoch ¹: 56 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6787)
+Mean Loss: 6.280939000447591
+********************** Epoch ¹: 57 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6787)
+Mean Loss: 6.1164647250705295
+********************** Epoch ¹: 58 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6919)
+Mean Loss: 6.0746551344129776
+********************** Epoch ¹: 59 **********************
+Train mAP: tensor(0.9873)
+Valid mAP: tensor(0.6567)
+Mean Loss: 5.902160334057278
+********************** Epoch ¹: 60 **********************
+Train mAP: tensor(0.9872)
+Valid mAP: tensor(0.6896)
+Mean Loss: 5.936326475143432
+********************** Epoch ¹: 61 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6480)
+Mean Loss: 6.000843657387628
+********************** Epoch ¹: 62 **********************
+Train mAP: tensor(0.9914)
+Valid mAP: tensor(0.6309)
+Mean Loss: 5.931458779440986
+********************** Epoch ¹: 63 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6403)
+Mean Loss: 5.86361189948188
+********************** Epoch ¹: 64 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6741)
+Mean Loss: 5.783953318066067
+********************** Epoch ¹: 65 **********************
+Train mAP: tensor(0.9915)
+Valid mAP: tensor(0.6224)
+Mean Loss: 5.64114252726237
+********************** Epoch ¹: 66 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6617)
+Mean Loss: 5.551377418306139
+********************** Epoch ¹: 67 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6793)
+Mean Loss: 5.376382013956706
+********************** Epoch ¹: 68 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6295)
+Mean Loss: 5.371212410397
+********************** Epoch ¹: 69 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6513)
+Mean Loss: 5.3283010758294
+********************** Epoch ¹: 70 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6292)
+Mean Loss: 5.177896667056613
+********************** Epoch ¹: 71 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6580)
+Mean Loss: 5.2079760932922365
+********************** Epoch ¹: 72 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6673)
+Mean Loss: 5.066378252241346
+********************** Epoch ¹: 73 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6442)
+Mean Loss: 4.990929044087728
+********************** Epoch ¹: 74 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6736)
+Mean Loss: 4.932782438066271
+********************** Epoch ¹: 75 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6629)
+Mean Loss: 4.878136448330349
+********************** Epoch ¹: 76 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6575)
+Mean Loss: 4.942848955790202
+********************** Epoch ¹: 77 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6599)
+Mean Loss: 4.755120548672147
+********************** Epoch ¹: 78 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6737)
+Mean Loss: 4.682069742414686
+********************** Epoch ¹: 79 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6796)
+Mean Loss: 4.592133829328749
+********************** Epoch ¹: 80 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6973)
+Mean Loss: 4.590230182011922
+********************** Epoch ¹: 81 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6731)
+Mean Loss: 4.489347586101956
+********************** Epoch ¹: 82 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6923)
+Mean Loss: 4.4372384240892195
+********************** Epoch ¹: 83 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6741)
+Mean Loss: 4.473704805374146
+********************** Epoch ¹: 84 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6417)
+Mean Loss: 4.387545528411866
+********************** Epoch ¹: 85 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6336)
+Mean Loss: 4.345033406151666
+********************** Epoch ¹: 86 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6264)
+Mean Loss: 4.471874587800768
+********************** Epoch ¹: 87 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6426)
+Mean Loss: 4.316342121760051
+********************** Epoch ¹: 88 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6984)
+Mean Loss: 4.186135221057468
+********************** Epoch ¹: 89 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6928)
+Mean Loss: 4.219049479166666
+********************** Epoch ¹: 90 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6814)
+Mean Loss: 4.12731461736891
+********************** Epoch ¹: 91 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7227)
+Mean Loss: 4.080987328423394
+********************** Epoch ¹: 92 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6506)
+Mean Loss: 4.037527466879951
+********************** Epoch ¹: 93 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6910)
+Mean Loss: 4.035151589711507
+********************** Epoch ¹: 94 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6626)
+Mean Loss: 3.9482711686028376
+********************** Epoch ¹: 95 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6141)
+Mean Loss: 3.9856374645233155
+********************** Epoch ¹: 96 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7099)
+Mean Loss: 3.8382670773400203
+********************** Epoch ¹: 97 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7005)
+Mean Loss: 3.804785812166002
+********************** Epoch ¹: 98 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7149)
+Mean Loss: 3.869652344385783
+********************** Epoch ¹: 99 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6847)
+Mean Loss: 3.795897209379408
+********************** Epoch ¹: 100 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6806)
+Mean Loss: 3.803479895061917
+********************** Epoch ¹: 101 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6800)
+Mean Loss: 3.7048923375871445
+********************** Epoch ¹: 102 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6708)
+Mean Loss: 3.739460629357232
+********************** Epoch ¹: 103 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6658)
+Mean Loss: 3.6439564938015407
+********************** Epoch ¹: 104 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6767)
+Mean Loss: 3.5582193014356824
+********************** Epoch ¹: 105 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7123)
+Mean Loss: 3.6058297395706176
+********************** Epoch ¹: 106 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7183)
+Mean Loss: 3.706592427359687
+********************** Epoch ¹: 107 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7109)
+Mean Loss: 3.5474104563395183
+********************** Epoch ¹: 108 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6647)
+Mean Loss: 3.653154394891527
+********************** Epoch ¹: 109 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6907)
+Mean Loss: 3.5480911355548437
+********************** Epoch ¹: 110 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6782)
+Mean Loss: 3.4988927184210885
+********************** Epoch ¹: 111 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6977)
+Mean Loss: 3.5113215827941895
+********************** Epoch ¹: 112 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.7199)
+Mean Loss: 3.4130331071217856
+********************** Epoch ¹: 113 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6809)
+Mean Loss: 3.4113605308532713
+********************** Epoch ¹: 114 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.6654)
+Mean Loss: 3.3137388801574708
+********************** Epoch ¹: 115 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7386)
+Mean Loss: 3.388153975804647
+********************** Epoch ¹: 116 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6973)
+Mean Loss: 3.2858865473005507
+********************** Epoch ¹: 117 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6750)
+Mean Loss: 3.313331469959683
+********************** Epoch ¹: 118 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6732)
+Mean Loss: 3.3033017958535087
+********************** Epoch ¹: 119 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.6790)
+Mean Loss: 3.2743748309877185
+********************** Epoch ¹: 120 **********************
+Train mAP: tensor(0.9874)
+Valid mAP: tensor(0.6993)
+Mean Loss: 3.2194589879777697
+********************** Epoch ¹: 121 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7115)
+Mean Loss: 3.2401993099848427
+********************** Epoch ¹: 122 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6746)
+Mean Loss: 3.2002647474077013
+********************** Epoch ¹: 123 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6244)
+Mean Loss: 3.219103527598911
+********************** Epoch ¹: 124 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6617)
+Mean Loss: 3.282155951393975
+********************** Epoch ¹: 125 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6925)
+Mean Loss: 3.1586458497577246
+********************** Epoch ¹: 126 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6912)
+Mean Loss: 3.169319509930081
+********************** Epoch ¹: 127 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7199)
+Mean Loss: 3.142152863078647
+********************** Epoch ¹: 128 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6818)
+Mean Loss: 3.123972635269165
+********************** Epoch ¹: 129 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6710)
+Mean Loss: 3.0154949527316623
+********************** Epoch ¹: 130 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7099)
+Mean Loss: 3.093529772758484
+********************** Epoch ¹: 131 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7372)
+Mean Loss: 3.056669733789232
+********************** Epoch ¹: 132 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7071)
+Mean Loss: 2.991441026793586
+********************** Epoch ¹: 133 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7060)
+Mean Loss: 3.0458418077892726
+********************** Epoch ¹: 134 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7333)
+Mean Loss: 3.0394450590345596
+********************** Epoch ¹: 135 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7307)
+Mean Loss: 3.034653860727946
+********************** Epoch ¹: 136 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7178)
+Mean Loss: 3.0088742706510754
+********************** Epoch ¹: 137 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6882)
+Mean Loss: 2.9873271539476183
+********************** Epoch ¹: 138 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6773)
+Mean Loss: 2.924571746720208
+********************** Epoch ¹: 139 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7054)
+Mean Loss: 2.927016452683343
+********************** Epoch ¹: 140 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7254)
+Mean Loss: 2.90811384095086
+********************** Epoch ¹: 141 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7319)
+Mean Loss: 2.897008416917589
+********************** Epoch ¹: 142 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7156)
+Mean Loss: 2.892110365231832
+********************** Epoch ¹: 143 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6890)
+Mean Loss: 2.858440629641215
+********************** Epoch ¹: 144 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7269)
+Mean Loss: 2.8597266154819065
+********************** Epoch ¹: 145 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7508)
+Mean Loss: 2.794971246189541
+********************** Epoch ¹: 146 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.6713)
+Mean Loss: 2.902298889160156
+********************** Epoch ¹: 147 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7021)
+Mean Loss: 2.8821075534820557
+********************** Epoch ¹: 148 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7162)
+Mean Loss: 2.7768940893809
+********************** Epoch ¹: 149 **********************
+Train mAP: tensor(0.9916)
+Valid mAP: tensor(0.7119)
+Mean Loss: 2.776766602198283
+********************** Epoch ¹: 150 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7422)
+Mean Loss: 2.7701335790422226
+********************** Epoch ¹: 151 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7033)
+Mean Loss: 2.765643457836575
+********************** Epoch ¹: 152 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.6881)
+Mean Loss: 2.787290179994371
+********************** Epoch ¹: 153 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7167)
+Mean Loss: 2.7381833510928684
+********************** Epoch ¹: 154 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7046)
+Mean Loss: 2.7507458114624024
+********************** Epoch ¹: 155 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6826)
+Mean Loss: 2.7136356035868325
+********************** Epoch ¹: 156 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6635)
+Mean Loss: 2.730351458655463
+********************** Epoch ¹: 157 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7207)
+Mean Loss: 2.6691063637203643
+********************** Epoch ¹: 158 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6876)
+Mean Loss: 2.671160192489624
+********************** Epoch ¹: 159 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6963)
+Mean Loss: 2.6838993422190347
+********************** Epoch ¹: 160 **********************
+Train mAP: tensor(0.9958)
+Valid mAP: tensor(0.7002)
+Mean Loss: 2.6616429445478653
+********************** Epoch ¹: 161 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7286)
+Mean Loss: 2.717028768327501
+********************** Epoch ¹: 162 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7192)
+Mean Loss: 2.6577974679734973
+********************** Epoch ¹: 163 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6914)
+Mean Loss: 2.7239877865049573
+********************** Epoch ¹: 164 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7083)
+Mean Loss: 2.6068993764453463
+********************** Epoch ¹: 165 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7272)
+Mean Loss: 2.640285665724013
+********************** Epoch ¹: 166 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7069)
+Mean Loss: 2.624850803481208
+********************** Epoch ¹: 167 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7003)
+Mean Loss: 2.6471288108825686
+********************** Epoch ¹: 168 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6971)
+Mean Loss: 2.5827221144570243
+********************** Epoch ¹: 169 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7480)
+Mean Loss: 2.573254319296943
+********************** Epoch ¹: 170 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7235)
+Mean Loss: 2.5108818372090655
+********************** Epoch ¹: 171 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6968)
+Mean Loss: 2.567909967634413
+********************** Epoch ¹: 172 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7102)
+Mean Loss: 2.5261302624808417
+********************** Epoch ¹: 173 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7169)
+Mean Loss: 2.533441262774997
+********************** Epoch ¹: 174 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7034)
+Mean Loss: 2.554646673732334
+********************** Epoch ¹: 175 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6947)
+Mean Loss: 2.5518975167804294
+********************** Epoch ¹: 176 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6821)
+Mean Loss: 2.466526313357883
+********************** Epoch ¹: 177 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6975)
+Mean Loss: 2.4466051297717626
+********************** Epoch ¹: 178 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7189)
+Mean Loss: 2.520530983077155
+********************** Epoch ¹: 179 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7261)
+Mean Loss: 2.4510745186275904
+********************** Epoch ¹: 180 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7442)
+Mean Loss: 2.4744893646240236
+********************** Epoch ¹: 181 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7077)
+Mean Loss: 2.4873809560139972
+********************** Epoch ¹: 182 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7376)
+Mean Loss: 2.4547332027223376
+********************** Epoch ¹: 183 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7167)
+Mean Loss: 2.421616824997796
+********************** Epoch ¹: 184 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6949)
+Mean Loss: 2.433484869533115
+********************** Epoch ¹: 185 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6983)
+Mean Loss: 2.4622967068354287
+********************** Epoch ¹: 186 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7059)
+Mean Loss: 2.387208859125773
+********************** Epoch ¹: 187 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6924)
+Mean Loss: 2.425649708112081
+********************** Epoch ¹: 188 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7048)
+Mean Loss: 2.403337085511949
+********************** Epoch ¹: 189 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7241)
+Mean Loss: 2.415528777440389
+********************** Epoch ¹: 190 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7360)
+Mean Loss: 2.433079158994887
+********************** Epoch ¹: 191 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7218)
+Mean Loss: 2.399014992713928
+********************** Epoch ¹: 192 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7172)
+Mean Loss: 2.3632598527272544
+********************** Epoch ¹: 193 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7415)
+Mean Loss: 2.3352806197272407
+********************** Epoch ¹: 194 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7274)
+Mean Loss: 2.365914894209968
+********************** Epoch ¹: 195 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6837)
+Mean Loss: 2.3642339664035372
+********************** Epoch ¹: 196 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7155)
+Mean Loss: 2.3514010747273764
+********************** Epoch ¹: 197 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7041)
+Mean Loss: 2.3143707953559027
+********************** Epoch ¹: 198 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7261)
+Mean Loss: 2.3277515485551623
+********************** Epoch ¹: 199 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7308)
+Mean Loss: 2.3021454117033215
+********************** Epoch ¹: 200 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7470)
+Mean Loss: 2.350188076231215
+********************** Epoch ¹: 201 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7352)
+Mean Loss: 2.2917900196711223
+********************** Epoch ¹: 202 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7194)
+Mean Loss: 2.3266489685906304
+********************** Epoch ¹: 203 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7254)
+Mean Loss: 2.3271119271384344
+********************** Epoch ¹: 204 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7103)
+Mean Loss: 2.3151716062757703
+********************** Epoch ¹: 205 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7054)
+Mean Loss: 2.269961395263672
+********************** Epoch ¹: 206 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7005)
+Mean Loss: 2.2621831952200995
+********************** Epoch ¹: 207 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7160)
+Mean Loss: 2.2645838101704916
+********************** Epoch ¹: 208 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7234)
+Mean Loss: 2.240889998012119
+********************** Epoch ¹: 209 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7278)
+Mean Loss: 2.2415387037065293
+********************** Epoch ¹: 210 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7024)
+Mean Loss: 2.2217472712198894
+********************** Epoch ¹: 211 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6965)
+Mean Loss: 2.268668630388048
+********************** Epoch ¹: 212 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7334)
+Mean Loss: 2.2328780449761285
+********************** Epoch ¹: 213 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7061)
+Mean Loss: 2.2408437612321643
+********************** Epoch ¹: 214 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6988)
+Mean Loss: 2.275713095664978
+********************** Epoch ¹: 215 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7138)
+Mean Loss: 2.2243988667594063
+********************** Epoch ¹: 216 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7164)
+Mean Loss: 2.2123306692971125
+********************** Epoch ¹: 217 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7337)
+Mean Loss: 2.2660318994522095
+********************** Epoch ¹: 218 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7190)
+Mean Loss: 2.207433023452759
+********************** Epoch ¹: 219 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6821)
+Mean Loss: 2.2239235973358156
+********************** Epoch ¹: 220 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7160)
+Mean Loss: 2.1872257301542493
+********************** Epoch ¹: 221 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7116)
+Mean Loss: 2.173348741531372
+********************** Epoch ¹: 222 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7002)
+Mean Loss: 2.1975655200746322
+********************** Epoch ¹: 223 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7221)
+Mean Loss: 2.1891866138246323
+********************** Epoch ¹: 224 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7310)
+Mean Loss: 2.188176267411974
+********************** Epoch ¹: 225 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7420)
+Mean Loss: 2.1338183005650837
+********************** Epoch ¹: 226 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7265)
+Mean Loss: 2.187992050382826
+********************** Epoch ¹: 227 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7464)
+Mean Loss: 2.127699842453003
+********************** Epoch ¹: 228 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7326)
+Mean Loss: 2.1217950995763144
+********************** Epoch ¹: 229 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7434)
+Mean Loss: 2.165578407711453
+********************** Epoch ¹: 230 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7313)
+Mean Loss: 2.1589632405175103
+********************** Epoch ¹: 231 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7167)
+Mean Loss: 2.1012610239452787
+********************** Epoch ¹: 232 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7150)
+Mean Loss: 2.1284715795516966
+********************** Epoch ¹: 233 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7318)
+Mean Loss: 2.1093127255969577
+********************** Epoch ¹: 234 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7578)
+Mean Loss: 2.1154351080788505
+********************** Epoch ¹: 235 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7633)
+Mean Loss: 2.067528307702806
+********************** Epoch ¹: 236 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7688)
+Mean Loss: 2.1182558160358007
+********************** Epoch ¹: 237 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7389)
+Mean Loss: 2.099699053234524
+********************** Epoch ¹: 238 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7295)
+Mean Loss: 2.120612384478251
+********************** Epoch ¹: 239 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7249)
+Mean Loss: 2.0872086879942153
+********************** Epoch ¹: 240 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7436)
+Mean Loss: 2.093350882000393
+********************** Epoch ¹: 241 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7524)
+Mean Loss: 2.0712525494893392
+********************** Epoch ¹: 242 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7308)
+Mean Loss: 2.046522126727634
+********************** Epoch ¹: 243 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7249)
+Mean Loss: 2.079236521191067
+********************** Epoch ¹: 244 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.6839)
+Mean Loss: 2.091519692738851
+********************** Epoch ¹: 245 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7528)
+Mean Loss: 2.1203153541353013
+********************** Epoch ¹: 246 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7422)
+Mean Loss: 2.058335132598877
+********************** Epoch ¹: 247 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7298)
+Mean Loss: 2.067005410194397
+********************** Epoch ¹: 248 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7503)
+Mean Loss: 2.013171093728807
+********************** Epoch ¹: 249 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7260)
+Mean Loss: 2.1132609621683756
+********************** Epoch ¹: 250 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7641)
+Mean Loss: 2.0403348233964707
+********************** Epoch ¹: 251 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7556)
+Mean Loss: 2.0449254486295914
+********************** Epoch ¹: 252 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7740)
+Mean Loss: 2.036292680634393
+********************** Epoch ¹: 253 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7465)
+Mean Loss: 2.0326107941733467
+********************** Epoch ¹: 254 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7395)
+Mean Loss: 2.0458305162853665
+********************** Epoch ¹: 255 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7570)
+Mean Loss: 2.0131744390063817
+********************** Epoch ¹: 256 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7381)
+Mean Loss: 2.0320994716220433
+********************** Epoch ¹: 257 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7606)
+Mean Loss: 2.0348629739549424
+********************** Epoch ¹: 258 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7428)
+Mean Loss: 2.025863337251875
+********************** Epoch ¹: 259 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7496)
+Mean Loss: 2.0445512040456135
+********************** Epoch ¹: 260 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7250)
+Mean Loss: 1.978048095703125
+********************** Epoch ¹: 261 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7563)
+Mean Loss: 1.9867948971854317
+********************** Epoch ¹: 262 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7368)
+Mean Loss: 2.0371935754352144
+********************** Epoch ¹: 263 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7473)
+Mean Loss: 1.9996952851613363
+********************** Epoch ¹: 264 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7680)
+Mean Loss: 2.017774599393209
+********************** Epoch ¹: 265 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7527)
+Mean Loss: 1.9572117683622572
+********************** Epoch ¹: 266 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7364)
+Mean Loss: 1.9947233364317152
+********************** Epoch ¹: 267 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7426)
+Mean Loss: 2.066789812511868
+********************** Epoch ¹: 268 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7520)
+Mean Loss: 1.9917054261101617
+********************** Epoch ¹: 269 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7381)
+Mean Loss: 1.9622536436716715
+********************** Epoch ¹: 270 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7171)
+Mean Loss: 1.9529947137832642
+********************** Epoch ¹: 271 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7223)
+Mean Loss: 1.960790555742052
+********************** Epoch ¹: 272 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7260)
+Mean Loss: 1.9840523507859973
+********************** Epoch ¹: 273 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7283)
+Mean Loss: 1.9810547632641262
+********************** Epoch ¹: 274 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7385)
+Mean Loss: 1.9294253799650405
+********************** Epoch ¹: 275 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7634)
+Mean Loss: 1.969768435160319
+********************** Epoch ¹: 276 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7694)
+Mean Loss: 1.9388101704915364
+********************** Epoch ¹: 277 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7370)
+Mean Loss: 1.9361554299460517
+********************** Epoch ¹: 278 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7251)
+Mean Loss: 1.9909560431374445
+********************** Epoch ¹: 279 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7262)
+Mean Loss: 1.904008093410068
+********************** Epoch ¹: 280 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7807)
+Mean Loss: 1.937130609088474
+********************** Epoch ¹: 281 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7222)
+Mean Loss: 1.8880420456992255
+********************** Epoch ¹: 282 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7426)
+Mean Loss: 1.8833936373392741
+********************** Epoch ¹: 283 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7524)
+Mean Loss: 1.9295758861965604
+********************** Epoch ¹: 284 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7541)
+Mean Loss: 1.9068491877449882
+********************** Epoch ¹: 285 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7583)
+Mean Loss: 1.938349846733941
+********************** Epoch ¹: 286 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7543)
+Mean Loss: 1.9234387805726794
+********************** Epoch ¹: 287 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7632)
+Mean Loss: 1.871222989294264
+********************** Epoch ¹: 288 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7181)
+Mean Loss: 1.9461996576521132
+********************** Epoch ¹: 289 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7311)
+Mean Loss: 1.9075305239359537
+********************** Epoch ¹: 290 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7726)
+Mean Loss: 1.8881340148713854
+********************** Epoch ¹: 291 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7693)
+Mean Loss: 1.8891370304425557
+********************** Epoch ¹: 292 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7853)
+Mean Loss: 1.9290305148230658
+********************** Epoch ¹: 293 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7438)
+Mean Loss: 1.882484326892429
+********************** Epoch ¹: 294 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7550)
+Mean Loss: 1.8748126607471043
+********************** Epoch ¹: 295 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7629)
+Mean Loss: 1.9176777786678738
+********************** Epoch ¹: 296 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7594)
+Mean Loss: 1.8892946423424615
+********************** Epoch ¹: 297 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7478)
+Mean Loss: 1.8578747283087835
+********************** Epoch ¹: 298 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7364)
+Mean Loss: 1.8620455916722616
+********************** Epoch ¹: 299 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7361)
+Mean Loss: 1.8874846559100682
+********************** Epoch ¹: 300 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7482)
+Mean Loss: 1.857499787012736
+********************** Epoch ¹: 301 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7590)
+Mean Loss: 1.8530228349897597
+********************** Epoch ¹: 302 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7590)
+Mean Loss: 1.8628860404756333
+********************** Epoch ¹: 303 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7536)
+Mean Loss: 1.8362430371178522
+********************** Epoch ¹: 304 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7293)
+Mean Loss: 1.8264154291152954
+********************** Epoch ¹: 305 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7625)
+Mean Loss: 1.855919032626682
+********************** Epoch ¹: 306 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7526)
+Mean Loss: 1.875552150408427
+********************** Epoch ¹: 307 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8003)
+Mean Loss: 1.786059103541904
+********************** Epoch ¹: 308 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7318)
+Mean Loss: 1.8524966526031494
+********************** Epoch ¹: 309 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7605)
+Mean Loss: 1.8320380618837144
+********************** Epoch ¹: 310 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7448)
+Mean Loss: 1.85136221408844
+********************** Epoch ¹: 311 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7509)
+Mean Loss: 1.8427637497584024
+********************** Epoch ¹: 312 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7708)
+Mean Loss: 1.8419637664159139
+********************** Epoch ¹: 313 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7711)
+Mean Loss: 1.8739192782508003
+********************** Epoch ¹: 314 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7583)
+Mean Loss: 1.7951235416200426
+********************** Epoch ¹: 315 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7637)
+Mean Loss: 1.8086935583750408
+********************** Epoch ¹: 316 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7740)
+Mean Loss: 1.7932102802064684
+********************** Epoch ¹: 317 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7417)
+Mean Loss: 1.7812171517478095
+********************** Epoch ¹: 318 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7480)
+Mean Loss: 1.8250614261627198
+********************** Epoch ¹: 319 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7560)
+Mean Loss: 1.7772929986317954
+********************** Epoch ¹: 320 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7431)
+Mean Loss: 1.8233404212527804
+********************** Epoch ¹: 321 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7702)
+Mean Loss: 1.7925934653811986
+********************** Epoch ¹: 322 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7606)
+Mean Loss: 1.7716248257954916
+********************** Epoch ¹: 323 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7570)
+Mean Loss: 1.810908767912123
+********************** Epoch ¹: 324 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7800)
+Mean Loss: 1.8080110274420844
+********************** Epoch ¹: 325 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7791)
+Mean Loss: 1.8214834668901232
+********************** Epoch ¹: 326 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7616)
+Mean Loss: 1.7795750692155625
+********************** Epoch ¹: 327 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7552)
+Mean Loss: 1.7740184394518534
+********************** Epoch ¹: 328 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7658)
+Mean Loss: 1.7544957621892294
+********************** Epoch ¹: 329 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7648)
+Mean Loss: 1.7774014981587727
+********************** Epoch ¹: 330 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7519)
+Mean Loss: 1.7536739778518677
+********************** Epoch ¹: 331 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7604)
+Mean Loss: 1.7416519384913975
+********************** Epoch ¹: 332 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7815)
+Mean Loss: 1.745078475740221
+********************** Epoch ¹: 333 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7644)
+Mean Loss: 1.7613346094555324
+********************** Epoch ¹: 334 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7542)
+Mean Loss: 1.764611432287428
+********************** Epoch ¹: 335 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7183)
+Mean Loss: 1.7677905941009522
+********************** Epoch ¹: 336 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7755)
+Mean Loss: 1.7660528585645887
+********************** Epoch ¹: 337 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7649)
+Mean Loss: 1.736843986246321
+********************** Epoch ¹: 338 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7818)
+Mean Loss: 1.7694812165366278
+********************** Epoch ¹: 339 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7738)
+Mean Loss: 1.7647581508424548
+********************** Epoch ¹: 340 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7855)
+Mean Loss: 1.7213745914565193
+********************** Epoch ¹: 341 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7734)
+Mean Loss: 1.7036666724416945
+********************** Epoch ¹: 342 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7578)
+Mean Loss: 1.727290048599243
+********************** Epoch ¹: 343 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7428)
+Mean Loss: 1.7284082327948675
+********************** Epoch ¹: 344 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7523)
+Mean Loss: 1.7200514139069452
+********************** Epoch ¹: 345 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7499)
+Mean Loss: 1.751112977663676
+********************** Epoch ¹: 346 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7437)
+Mean Loss: 1.7466286396980286
+********************** Epoch ¹: 347 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7672)
+Mean Loss: 1.7291317802005344
+********************** Epoch ¹: 348 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7871)
+Mean Loss: 1.721565260887146
+********************** Epoch ¹: 349 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7503)
+Mean Loss: 1.7317119232813518
+********************** Epoch ¹: 350 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8021)
+Mean Loss: 1.7362970383961995
+********************** Epoch ¹: 351 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8181)
+Mean Loss: 1.7374334194925096
+********************** Epoch ¹: 352 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7842)
+Mean Loss: 1.6968862766689725
+********************** Epoch ¹: 353 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7857)
+Mean Loss: 1.7567165533701579
+********************** Epoch ¹: 354 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7705)
+Mean Loss: 1.7015464361508688
+********************** Epoch ¹: 355 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7501)
+Mean Loss: 1.7358600038952297
+********************** Epoch ¹: 356 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7789)
+Mean Loss: 1.7198378573523627
+********************** Epoch ¹: 357 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7882)
+Mean Loss: 1.7027977148691813
+********************** Epoch ¹: 358 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7481)
+Mean Loss: 1.6951117944717407
+********************** Epoch ¹: 359 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7749)
+Mean Loss: 1.6920217196146647
+********************** Epoch ¹: 360 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7775)
+Mean Loss: 1.6874132177564833
+********************** Epoch ¹: 361 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7908)
+Mean Loss: 1.647512809170617
+********************** Epoch ¹: 362 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7477)
+Mean Loss: 1.7233635234832763
+********************** Epoch ¹: 363 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7632)
+Mean Loss: 1.6877347665362887
+********************** Epoch ¹: 364 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7588)
+Mean Loss: 1.6879942546950446
+********************** Epoch ¹: 365 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7609)
+Mean Loss: 1.6549288426505195
+********************** Epoch ¹: 366 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7753)
+Mean Loss: 1.7075948079427083
+********************** Epoch ¹: 367 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7943)
+Mean Loss: 1.6737015946706135
+********************** Epoch ¹: 368 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7905)
+Mean Loss: 1.7329766766230266
+********************** Epoch ¹: 369 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7786)
+Mean Loss: 1.6947974835501778
+********************** Epoch ¹: 370 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7683)
+Mean Loss: 1.6886692775620356
+********************** Epoch ¹: 371 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7502)
+Mean Loss: 1.6621261093351576
+********************** Epoch ¹: 372 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7717)
+Mean Loss: 1.6682251532872518
+********************** Epoch ¹: 373 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7492)
+Mean Loss: 1.6807218085394966
+********************** Epoch ¹: 374 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7900)
+Mean Loss: 1.663983363840315
+********************** Epoch ¹: 375 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7566)
+Mean Loss: 1.6729577869839138
+********************** Epoch ¹: 376 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7708)
+Mean Loss: 1.615942583349016
+********************** Epoch ¹: 377 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7765)
+Mean Loss: 1.6508408231205411
+********************** Epoch ¹: 378 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7671)
+Mean Loss: 1.6963821750217014
+********************** Epoch ¹: 379 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7122)
+Mean Loss: 1.6936516335275438
+********************** Epoch ¹: 380 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7535)
+Mean Loss: 1.663303299744924
+********************** Epoch ¹: 381 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7587)
+Mean Loss: 1.6304986635843912
+********************** Epoch ¹: 382 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7670)
+Mean Loss: 1.6733958175447252
+********************** Epoch ¹: 383 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7545)
+Mean Loss: 1.639508109357622
+********************** Epoch ¹: 384 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7331)
+Mean Loss: 1.6449076114760506
+********************** Epoch ¹: 385 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7513)
+Mean Loss: 1.665210445192125
+********************** Epoch ¹: 386 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7819)
+Mean Loss: 1.6558939838409423
+********************** Epoch ¹: 387 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7588)
+Mean Loss: 1.6505249288347033
+********************** Epoch ¹: 388 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7863)
+Mean Loss: 1.6491543785730998
+********************** Epoch ¹: 389 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7875)
+Mean Loss: 1.640062460369534
+********************** Epoch ¹: 390 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7899)
+Mean Loss: 1.6089264877637228
+********************** Epoch ¹: 391 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7363)
+Mean Loss: 1.6132947874069214
+********************** Epoch ¹: 392 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7926)
+Mean Loss: 1.672669431898329
+********************** Epoch ¹: 393 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7362)
+Mean Loss: 1.6112325599458484
+********************** Epoch ¹: 394 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7563)
+Mean Loss: 1.6141113061375088
+********************** Epoch ¹: 395 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7756)
+Mean Loss: 1.5977018605338202
+********************** Epoch ¹: 396 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8012)
+Mean Loss: 1.6119495656755236
+********************** Epoch ¹: 397 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7967)
+Mean Loss: 1.5888777621587118
+********************** Epoch ¹: 398 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7798)
+Mean Loss: 1.6109945776727463
+********************** Epoch ¹: 399 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8020)
+Mean Loss: 1.6391205022070143
+********************** Epoch ¹: 400 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7928)
+Mean Loss: 1.5972838452127245
+********************** Epoch ¹: 401 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7858)
+Mean Loss: 1.610224605931176
+********************** Epoch ¹: 402 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7704)
+Mean Loss: 1.5783619448873731
+********************** Epoch ¹: 403 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7754)
+Mean Loss: 1.6333379030227662
+********************** Epoch ¹: 404 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7637)
+Mean Loss: 1.6022522491878934
+********************** Epoch ¹: 405 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7740)
+Mean Loss: 1.6172127925025093
+********************** Epoch ¹: 406 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7868)
+Mean Loss: 1.6018523131476508
+********************** Epoch ¹: 407 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8038)
+Mean Loss: 1.5729888719982572
+********************** Epoch ¹: 408 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7700)
+Mean Loss: 1.5850130814976162
+********************** Epoch ¹: 409 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8119)
+Mean Loss: 1.599627934826745
+********************** Epoch ¹: 410 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8260)
+Mean Loss: 1.6272567786110772
+********************** Epoch ¹: 411 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7998)
+Mean Loss: 1.5615971451335484
+********************** Epoch ¹: 412 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7886)
+Mean Loss: 1.6213688026534185
+********************** Epoch ¹: 413 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7766)
+Mean Loss: 1.5435326798756916
+********************** Epoch ¹: 414 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8203)
+Mean Loss: 1.5904682811101278
+********************** Epoch ¹: 415 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7727)
+Mean Loss: 1.5960586823357477
+********************** Epoch ¹: 416 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7775)
+Mean Loss: 1.555770858393775
+********************** Epoch ¹: 417 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7924)
+Mean Loss: 1.5851772570610045
+********************** Epoch ¹: 418 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8029)
+Mean Loss: 1.5749784678883023
+********************** Epoch ¹: 419 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7874)
+Mean Loss: 1.608062444527944
+********************** Epoch ¹: 420 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8126)
+Mean Loss: 1.5735617497232226
+********************** Epoch ¹: 421 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7797)
+Mean Loss: 1.5469399936993917
+********************** Epoch ¹: 422 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8056)
+Mean Loss: 1.6038928937911987
+********************** Epoch ¹: 423 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8063)
+Mean Loss: 1.570092736615075
+********************** Epoch ¹: 424 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8361)
+Mean Loss: 1.5576578251520792
+********************** Epoch ¹: 425 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7800)
+Mean Loss: 1.555232860247294
+********************** Epoch ¹: 426 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7696)
+Mean Loss: 1.5535649198955959
+********************** Epoch ¹: 427 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7534)
+Mean Loss: 1.5604551654391818
+********************** Epoch ¹: 428 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7648)
+Mean Loss: 1.6045682009061177
+********************** Epoch ¹: 429 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7874)
+Mean Loss: 1.5725324551264446
+********************** Epoch ¹: 430 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7788)
+Mean Loss: 1.5698134859402975
+********************** Epoch ¹: 431 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7729)
+Mean Loss: 1.5662524482938978
+********************** Epoch ¹: 432 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7759)
+Mean Loss: 1.5804679192437066
+********************** Epoch ¹: 433 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7947)
+Mean Loss: 1.5533777740266588
+********************** Epoch ¹: 434 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8201)
+Mean Loss: 1.519598269727495
+********************** Epoch ¹: 435 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8112)
+Mean Loss: 1.5074763141738043
+********************** Epoch ¹: 436 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7854)
+Mean Loss: 1.517585784594218
+********************** Epoch ¹: 437 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8124)
+Mean Loss: 1.5577858877182007
+********************** Epoch ¹: 438 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7913)
+Mean Loss: 1.5369079433547126
+********************** Epoch ¹: 439 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8066)
+Mean Loss: 1.518870272371504
+********************** Epoch ¹: 440 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8089)
+Mean Loss: 1.5538156747817993
+********************** Epoch ¹: 441 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7741)
+Mean Loss: 1.5359199897448221
+********************** Epoch ¹: 442 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7871)
+Mean Loss: 1.543178111712138
+********************** Epoch ¹: 443 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7840)
+Mean Loss: 1.567885571055942
+********************** Epoch ¹: 444 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7874)
+Mean Loss: 1.5513872448603312
+********************** Epoch ¹: 445 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7729)
+Mean Loss: 1.5696765224138896
+********************** Epoch ¹: 446 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7963)
+Mean Loss: 1.5132052058643766
+********************** Epoch ¹: 447 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7991)
+Mean Loss: 1.5484470290607877
+********************** Epoch ¹: 448 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7906)
+Mean Loss: 1.5008459104432
+********************** Epoch ¹: 449 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.8444)
+Mean Loss: 1.526256967915429
+********************** Epoch ¹: 450 **********************
+Train mAP: tensor(1.)
+Valid mAP: tensor(0.7886)
+Mean Loss: 1.5008459104432
+
