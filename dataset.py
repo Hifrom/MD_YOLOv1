@@ -3,7 +3,6 @@ import os
 import pandas as pd
 from PIL import Image
 
-
 class Dataset(torch.utils.data.Dataset):
     def __init__(self, csv_file, img_dir, label_dir, S=7, B=2, C=1, transform=None):
         self.annotations = pd.read_csv(csv_file)
