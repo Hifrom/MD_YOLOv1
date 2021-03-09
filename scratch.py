@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 from torchvision import models
 import torch.nn as nn
 
-
 # Mirror Images and save;
 # Also txt files are saved with mirror augmented;
 '''
