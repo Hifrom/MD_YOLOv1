@@ -82,7 +82,6 @@ def main():
     if LOAD_MODEL:
         load_checkpoint(torch.load(LOAD_MODEL_FILE), model, optimizer)
         model.train()
-
     train_dataset = Dataset("data/train.csv", transform=transform, img_dir=IMG_DIR_TRAIN, label_dir=LABEL_DIR_TRAIN)
     valid_dataset = Dataset("data/valid.csv", transform=transform, img_dir=IMG_DIR_VALID, label_dir=LABEL_DIR_VALID)
     train2_dataset = Dataset("data/train2.csv", transform=transform, img_dir='data/images', label_dir='data/labels')
