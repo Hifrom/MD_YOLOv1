@@ -91,7 +91,7 @@ def main():
                               num_workers=NUM_WORKERS,
                               pin_memory=PIN_MEMORY, shuffle=True,
                               drop_last=True)
-
+    
     for epoch in range(0, EPOCHS):
         print('************ Epoch Number: {0} ************'.format(int(epoch)))
         # if epoch == 10:
